@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=383729",
+	"FriendlyName": "FlexFuel Drones CL",
+	"Description": "Drones and Drone Ports now accept packaged liquid biofuel!",
+	"Category": "Modding",
+	"CreatedBy": "Boswen McBastok, Robb",
+	"CreatedByURL": "https://www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=69344",
+	"DocsURL": "https://docs.ficsit.app/contentlib/latest/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.10.0"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.5.0"
+		}
+	]
+}
