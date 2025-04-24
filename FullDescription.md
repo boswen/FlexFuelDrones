@@ -4,7 +4,7 @@
 
 ## ⚠️ ATTENTION: This mod has not been tested on Patch 1.1 / Experimental Branch! It *might* work just fine there, or it might crash your game. So use on 1.1 / experimental at your own risk!
 
-[![This mod is powered by ContentLib!](https://github.com/boswen/FlexFuelDrones/blob/main/NOG_001.png)](https://ficsit.app/mod/5T4Z1exTKPDbWF)[![Visit the ContentLib Discord!](https://github.com/boswen/FlexFuelDrones/blob/main/NOG_002.png)](https://discord.gg/azC9UtsJ2K)
+[![This mod is powered by ContentLib!](https://raw.githubusercontent.com/boswen/FlexFuelDrones/refs/heads/main/NOG_001.png)](https://ficsit.app/mod/5T4Z1exTKPDbWF)[![Visit the ContentLib Discord!](https://raw.githubusercontent.com/boswen/FlexFuelDrones/refs/heads/main/NOG_002.png)](https://discord.gg/azC9UtsJ2K)
 
 ## 🚀 Features
 
@@ -21,8 +21,8 @@
 - [ContentLib](https://ficsit.app/mod/ContentLib)
 
 ## Screenshots!
-### Look, ma! I'm green!
-[![Look, ma! I'm green!](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/PLBF_in_Drone_Port.png)](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/PLBF_in_Drone_Port.png)
+### - Look, ma! I'm green! (It works!)
+[![Look, ma! I'm green!](https://raw.githubusercontent.com/boswen/FlexFuelDrones/refs/heads/main/Screenshots/PLBF_in_Drone_Port.png)](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/PLBF_in_Drone_Port.png)
 
-### Oooooh! Ahhhhh!
-[![Oooooh! Ahhhhh!](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/Green_Flames.png)](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/Green_Flames.png)
+### - Oooooh! Ahhhhh! (Pretty green bio-flames!)
+[![Oooooh! Ahhhhh!](https://raw.githubusercontent.com/boswen/FlexFuelDrones/refs/heads/main/Screenshots/Green_Flames.png)](https://github.com/boswen/FlexFuelDrones/blob/main/Screenshots/Green_Flames.png)
