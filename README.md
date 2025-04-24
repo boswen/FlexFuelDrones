@@ -15,7 +15,6 @@
 - Satisfactory *1.0*! (Yes, the stable version. I don't have a version ready for 1.1 yet -- stay tuned!)
 - [Satisfactory Mod Manager](https://ficsit.app/)
 - [ContentLib](https://ficsit.app/mod/ContentLib)
-- Game version: Compatible with Update X and newer
 
 ## 📦 Installation
 
